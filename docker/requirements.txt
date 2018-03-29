@@ -1,0 +1,9 @@
+pystan
+tensorflow
+pandas
+numpy
+scikit-learn
+fbprophet
+jupyter
+quilt
+keras
