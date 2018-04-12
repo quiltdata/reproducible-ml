@@ -7,3 +7,4 @@ fbprophet
 jupyter
 quilt
 keras
+matplotlib
