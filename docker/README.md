@@ -14,6 +14,6 @@ localhost:8888 and paste <TOKEN>
 
 ## Build container
 ```sh
-docker build -t qml .
+docker build -t quiltdata/ctc_ml .
 ```
 
